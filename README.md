@@ -1,4 +1,4 @@
-This package provides an implementation of joint refraction and reflection travel-time tomography presented by Korenaga et al.[J. Geophys. Res., 105, 21591-21614, 2000]. Please read this paper before using this code. At this moment, a user’s guide included in this distribution (readme.pdf) provides only the minimum technical details. If you have found bugs or errors in the user’s guide, please email me at jun.korenaga@yale.edu. 
+This package provides an implementation of joint refraction and reflection travel-time tomography presented by Korenaga et al.[J. Geophys. Res., 105, 21591-21614, 2000; https://doi.org/10.1029/2000JB900188]. Please read this paper before using this code. At this moment, a user’s guide included in this distribution (readme.pdf) provides only the minimum technical details. If you have found bugs or errors in the user’s guide, please email me at jun.korenaga@yale.edu. 
 
 ![Code image](raytrace.jpg)
 
